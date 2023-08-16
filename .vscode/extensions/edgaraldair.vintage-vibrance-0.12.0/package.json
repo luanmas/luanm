@@ -1,0 +1,42 @@
+{
+	"name": "vintage-vibrance",
+	"displayName": "Vintage-Vibrance Color Theme",
+	"description": "The Vibrance colors are carefully selected with legibility and people with dyslexia in mind to create an accessible theme for Visual Studio Code",
+	"version": "0.12.0",
+	"publisher": "EdgarAldair",
+	"homepage": "https://github.com/EdgarAldair/vscode-vintage-vibrance",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EdgarAldair/vscode-vintage-vibrance"
+	},
+	"galleryBanner": {
+		"color": "#21272e",
+		"theme": "dark"
+	},
+	"icon": "logoVintage-Vibrance.png",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Vintage-Vibrance",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Vintage-Vibrance-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "8501b0df-dfae-4700-9eae-9dbcf7740c33",
+		"publisherId": "7f77a6aa-33cb-4386-8e47-cda964616a72",
+		"publisherDisplayName": "EdgarAldair",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1691513839405,
+		"preRelease": false
+	}
+}
